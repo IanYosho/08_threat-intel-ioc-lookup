@@ -6,7 +6,7 @@ Automated Open Source Intelligence (OSINT) enrichment engine built for SOC analy
 [![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B)](https://streamlit.io/)
 [![Threat Intel](https://img.shields.io/badge/OSINT-Multi--Source-blue)](https://www.virustotal.com/)
 
-> 🚀 **Live Demo:** Access the interactive cloud app at [Deploy Link Pending]
+> 🚀 **Live Demo:** Access the interactive cloud app at https://ianyosho-threat-intel.streamlit.app/
 
 ---
 
